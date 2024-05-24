@@ -437,6 +437,8 @@ a img.aligncenter {
 .header_style_01 .navbar-brand {
     padding: 2px 15px 0 15px;
 	height: auto;
+   
+  
 }
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
@@ -508,21 +510,21 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url("uploads/slider_01.jpg");
+    background-image: url("uploads/slider_1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-two {
-    background-image: url("uploads/slider_02.jpg");
+    background-image: url("uploads/slider_2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-three {
-    background-image: url("uploads/slider_03.jpg");
+    background-image: url("uploads/slider_3.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2867,7 +2869,7 @@ select.mobile-device {
 
 
 .banner-bg-1{
-	background: url(uploads/inner-bg.jpg);
+	background: url(uploads/inner_bg.webp);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
