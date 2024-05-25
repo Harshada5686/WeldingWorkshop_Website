@@ -2047,92 +2047,11 @@ select.mobile-device {
 }
 
 .footer {
-    padding: 90px 0 80px !important;
+    padding: 20px 0 20px !important;
     color: #999;
     background-color: #393939;
 }
 
-.footer .widget-title {
-    position: relative;
-    display: block;
-    margin-bottom: 30px;
-}
-
-.footer .widget-title small {
-    color: #999;
-    display: block;
-    padding: 0 58px;
-    text-transform: uppercase;
-}
-
-.footer .widget-title h3 {
-    color: #fff;
-    font-weight: 500;
-    font-size: 21px;
-    padding: 0;
-    margin: 0;
-    line-height: 1 !important;
-}
-
-.footer-links {
-    list-style: none;
-    padding: 0;
-}
-
-.footer-links a {
-    color: #999;
-	display: block;
-}
-
-.footer-links.hov a span{
-	opacity: 0;
-	transition: all 1s ease-in-out;
-}
-
-.footer-links.hov a:hover{
-	padding-left: 15px;
-}
-.footer-links.hov a:hover span{
-	opacity: 1;
-	padding-left: 10px;
-	transition: all 1s ease-in-out;
-}
-
-.footer-links a:hover,
-.footer a:hover {
-    color: #fd6802 !important;
-}
-
-.footer-links li {
-    margin-bottom: 10px;
-    display: block;
-    width: 100%;
-    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
-    padding-bottom: 10px;
-}
-
-.twitter-widget li {
-    margin-bottom: 0;
-    border: 0 !important;
-}
-
-.twitter-widget li i {
-    border-right: 0 !important;
-    margin-right: 0;
-}
-
-.footer-links li:last-child {
-    margin-bottom: 0;
-    padding-bottom: 0;
-    border: 0;
-}
-
-.footer-links i {
-    display: inline-block;
-    width: 25px;
-    margin-right: 10px;
-    border-right: 1px dashed rgba(255, 255, 255, 0.1);
-}
 
 .copyrights {
     border-top: 1px dashed rgba(255, 255, 255, 0.1);
@@ -2140,7 +2059,7 @@ select.mobile-device {
     box-sizing: border-box;
     width: 100%;
     text-align: left;
-    padding: 50px 60px;
+    padding: 20px 20px;
     overflow: hidden;
 }
 
@@ -2193,59 +2112,6 @@ select.mobile-device {
 .footer-distributed .widget-title p{
 	padding-top: 40px;
 }
-
-.footer-distributed form {
-    position: relative;
-}
-
-.footer-distributed form input {
-    display: block;
-    border-radius: 3px;
-    box-sizing: border-box;
-    background-color: #181818;
-    border: none;
-    font: inherit;
-    font-size: 15px;
-    font-weight: normal;
-    color: #999;
-    width: 100%;
-    padding: 18px 50px 18px 18px;
-}
-
-.footer-distributed form input:focus {
-    outline: none;
-}
-
-
-/* Changing the placeholder color */
-
-.footer-distributed form input::-webkit-input-placeholder {
-    color: #999;
-}
-
-.footer-distributed form input::-moz-placeholder {
-    opacity: 1;
-    color: #999;
-}
-
-.footer-distributed form input:-ms-input-placeholder {
-    color: #999;
-}
-
-
-/* The magnify glass icon */
-
-.footer-distributed form i {
-    width: 18px;
-    height: 18px;
-    position: absolute;
-    top: 16px;
-    right: 18px;
-    color: #999;
-    font-size: 18px;
-    margin-top: 6px;
-}
-
 
 /*------------------------------------------------------------------
     MISC
