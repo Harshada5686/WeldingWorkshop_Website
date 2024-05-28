@@ -3185,8 +3185,13 @@ select.mobile-device {
 }
 .address-icon i{
 	font-size: 38px;
-	color: #393939;
+	color: #393939 ;
 }
+.address-icon1{
+	font-size: 38px;
+	color: white;
+}
+/* */
 
 .address-item h3{
 	font-size: 28px;
